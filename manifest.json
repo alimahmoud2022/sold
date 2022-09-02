@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "description": "Please click the link to complete this form.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "form.jotform",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "form.jotform",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://cdn.jotfor.ms/assets/img/favicons/favicon-2021.svg"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ]
+}
